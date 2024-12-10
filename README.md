@@ -1,2 +1,1 @@
-# Drowsiness-Detection-using-Open-CV
- The objective of this intermediate Python project is to build a drowsiness detection system that will detect that a person’s eyes are closed for a few seconds. This system will alert the driver when drowsiness is detected.
+This project aims to develop an AI-powered system capable of accurately detecting driver drowsiness in real-time, utilizing computer vision techniques and machine learning algorithms. By leveraging libraries such as NumPy, Pandas, and TensorFlow, the system processes video frames, identifies facial landmarks, and calculates key metrics to assess the driver's alertness level. Upon detecting signs of drowsiness, the system triggers an alert mechanism to prevent potential accidents.
